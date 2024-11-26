@@ -1,7 +1,7 @@
 import React from "react";
 
 const NonDashboardNavbar = () => {
-  return <div>NonDashboardNavbar</div>;
+  return <nav className="nondashboard-navbar">hello</nav>;
 };
 
 export default NonDashboardNavbar;
